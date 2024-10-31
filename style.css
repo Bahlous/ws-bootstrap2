@@ -1,0 +1,42 @@
+.card{
+    display: inline-flex; 
+    margin: 6px;
+    padding: auto;
+    align-items: center;
+    margin-top: 6px;
+    margin-bottom: 1%;
+}
+body{
+    background-color:  rgba(32, 30, 30, 0.852) !important
+}
+.barNav{
+    background-color: rgba(32, 30, 30, 0.852);
+    
+}
+.shoestitre{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.textNav{
+    color: white;
+}
+.active-textNav{
+    color: white;
+}
+footer{
+    text-align: center;
+    justify-content: center;
+    
+}
+.cardsfooter{
+    background-color: white;
+    margin: 6px;
+    border-radius: 50%;
+}
+.contacttitre{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
